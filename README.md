@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SnozberryFarm
 
 Trying to become a GIS developer (currently a GIS Technician)
-I have basic programming skills using VB.Net(OOP), SQL, Python, a little bit of Javascript, and HTML/CSS
-Looking for a place to get ideas/help and was told this was the place to be 😊
+I have basic programming skills using VB.Net(OOP), SQL, Python, a little bit of Javascript, and HTML/CSS. 
+Looking for a place to get ideas/help and was told this was the place to be 😊  
 Hoping to meet new people, expand my network, and do some fun things with code!
 
 <!---
